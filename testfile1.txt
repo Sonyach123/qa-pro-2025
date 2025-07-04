@@ -1,1 +1,1 @@
-shos nove
+git merge conflict shos nove
